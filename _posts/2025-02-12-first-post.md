@@ -2,6 +2,8 @@
 layout: post
 title: First Post
 date: 2025-02-12 21:26 +0800
+categories: test_categories
+tag: test_tags
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pellentesque et nisi quis posuere. Aliquam id pretium odio, nec bibendum elit. Integer consequat velit facilisis, tempus nunc eu, tincidunt quam. Nulla facilisi. Praesent sagittis suscipit arcu, id ornare felis elementum a. Aenean tristique, lacus auctor viverra sagittis, erat tortor commodo mi, eget sollicitudin augue lectus id tellus. Curabitur consectetur leo justo, et suscipit sem venenatis vel.
