@@ -6,6 +6,7 @@ gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
 
 gem "html-proofer", "~> 5.0", group: :test
 gem 'logger'
+gem 'fiddle'
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
 
