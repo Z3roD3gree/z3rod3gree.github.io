@@ -13,8 +13,8 @@ html[data-mode="light"] {
 	--main-bg: #fdf6e3;
 	--main-border-color: #c6c6c6;
 	--text-muted-color: #4c4c4c;
-	--link-color: #0067b2;
-	--input-focus-border-color: #0067b2;
+	--link-color: #1c6fbc;
+	--input-focus-border-color: #1c6fbc;
 	--sidebar-bg: #eee8d5;
 	--sidebar-border-color: #c6c6c6;
 	--sidebar-hover-bg: #bfd3e5a3;
@@ -22,7 +22,21 @@ html[data-mode="light"] {
 	--search-icon-color: #929292;
 	--avatar-border-color: #9c9c9c;
 	--topbar-bg: #fdf6e3;
-	--card-bg: #f8f8f8;
+	--card-bg: #fdfdfc;
 	--card-hovor-bg: #cbcbcb;
+	--text-muted-highlight-color: #1c6fbc;
 }
 
+html:not([data-mode="light"]) {
+	--main-bg: #2a282e;
+	--main-border-color: #3e3e3e;
+	--link-color: #a3d1cb;
+	--link-underline-color: #5a9652;
+	--site-title-color: #c6c4c4;
+	--site-subtitle-color: #999;
+	--sidebar-bg: #28262b;
+	--sidebar-border-color: #3e3e3e;
+	--sidebar-hover-bg: #7c9f9b3d;
+	--topbar-bg: #2a282e;
+	--text-muted-highlight-color: #a3d1cb;
+}
